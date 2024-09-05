@@ -44,3 +44,11 @@ This project generates a Bitcoin wallet on the **Testnet** network using Hierarc
    Wallet Seed:  canoe horse blur dizzy embrace tomato core wool chimney wall autumn other
    ```
 
+## ☕ Buy Me a Coffee
+If you found this project useful, feel free to buy me a coffee by sending Bitcoin to my address:
+
+**BTC Address:** `1PuCj9CQgaPdWPtBcNWtKQHYgjpWdGe7rG`
+
+Thanks for the support!
+
+
